@@ -1,4 +1,4 @@
-;test
-;more test
-;something
-;start of first feature
+test;
+more test;
+something;
+start of first feature;
