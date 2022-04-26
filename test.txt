@@ -1,4 +1,3 @@
-test;
 more test;
 something;
 start of first feature;
